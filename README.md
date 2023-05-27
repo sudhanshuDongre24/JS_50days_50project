@@ -8,6 +8,8 @@
 -	Project 2 - Scroll Animation
 		 link:
 
+- 	Project 3 - Form Input Wave
+		  link:
 
 
 
