@@ -16,3 +16,6 @@
 
 - 	Project 5 - Drink Water
           link:
+
+-  	Project 6 - Theme Clock
+  		 link:
