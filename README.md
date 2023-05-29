@@ -19,3 +19,6 @@
 
 -  	Project 6 - Theme Clock
   		 link:
+
+-	Project 7 - Auto Text Effect
+		 link:
