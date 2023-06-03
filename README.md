@@ -25,3 +25,6 @@
 
 - 	Project 8 - Increment Counter
 	   	link:
+
+- 	Project 9 - Good, Cheap, Fast
+   	   link:
