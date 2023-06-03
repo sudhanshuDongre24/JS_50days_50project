@@ -22,3 +22,6 @@
 
 -	Project 7 - Auto Text Effect
 		 link:
+
+- 	Project 8 - Increment Counter
+	   	link:
