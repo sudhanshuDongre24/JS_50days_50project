@@ -37,3 +37,6 @@
 
 -	Project 12 -  Kinetic Loader
 		 link:
+
+-	Project 13 -  Animated Navigation
+		 link:
