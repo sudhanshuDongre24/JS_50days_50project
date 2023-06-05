@@ -34,3 +34,6 @@
 
 -	Project 11 -  Animated Countdown
 		 link:
+
+-	Project 12 -  Kinetic Loader
+		 link:
