@@ -24,7 +24,7 @@
 		 link:
 
 - 	Project 8 - Increment Counter
-	   	link:
+	      link:
 
 - 	Project 9 - Good, Cheap, Fast
    	   link:
@@ -39,4 +39,10 @@
 		 link:
 
 -	Project 13 -  Animated Navigation
+	     link:
+
+-	Project 14 - 3D Boxes Background
 		 link:
+
+-	Project 15 - Background Slider
+		  link:
