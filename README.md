@@ -55,3 +55,6 @@
 
 -	Project 18 - Expanding Cards
 		 link:
+
+- Project 19 - HoverBoard
+	    link:
