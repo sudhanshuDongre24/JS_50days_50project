@@ -49,3 +49,6 @@
 
 -	Project 16 - Custom Range Sldier
 		 link:
+
+- 	Project 17 - Drag N Drop
+		  link:
