@@ -46,3 +46,6 @@
 
 -	Project 15 - Background Slider
 		  link:
+
+-	Project 16 - Custom Range Sldier
+		 link:
