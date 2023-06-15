@@ -52,3 +52,6 @@
 
 - 	Project 17 - Drag N Drop
 		  link:
+
+-	Project 18 - Expanding Cards
+		 link:
