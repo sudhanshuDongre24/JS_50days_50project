@@ -58,3 +58,9 @@
 
 -   Project 19 - HoverBoard
 	    link:
+
+-	Project 20 - Blurry Loading
+		 link:
+
+-	Project 21 - Content PlaceHolder
+	     link:
