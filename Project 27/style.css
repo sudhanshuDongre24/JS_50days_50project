@@ -66,6 +66,7 @@ main {
 
 .movie img {
   width: 100%;
+  /* height: 100%; */
 }
 
 .movie-info {
@@ -100,7 +101,7 @@ main {
 }
 
 .overview {
-  background-color: #fff;
+  background-color: rgba(34, 37, 75, 0.8);
   padding: 2rem;
   position: absolute;
   left: 0;
@@ -109,7 +110,11 @@ main {
   max-height: 100%;
   transform: translateY(101%);
   overflow-y: auto;
-  transition: transform 03s ease-in;
+  transition: transform 0.3s ease-in;
+}
+.overview p {
+  color: #fff;
+  font-family: inherit;
 }
 
 .movie:hover .overview {
