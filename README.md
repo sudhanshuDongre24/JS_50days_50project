@@ -64,3 +64,21 @@
 
 -	Project 21 - Content PlaceHolder
 	     link:
+
+-	Project 22 - Vertical Slider
+    	  link:
+
+-	Project 23 - Double Click Heart
+    	  link:
+
+-	Project 24 - Dad Jokes
+    	  link:
+
+-	Project 25 - Let us Know Your Feedback
+    	  link:
+
+-	Project 26 - Github Profile
+    	  link:
+
+-	Project 27 - Movie App
+    	  link:
