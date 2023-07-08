@@ -11,7 +11,7 @@
 - 	Project 3 - Form Input Wave
 		  link:
 
--	Projecr 4 - Random Choice Picker
+-	Project 4 - Random Choice Picker
 		 link:
 
 - 	Project 5 - Drink Water
@@ -65,7 +65,7 @@
 -	Project 21 - Content PlaceHolder
 	     link:
 
--	Project 22 - Vertical Slider
+-	Project 22 - Double Vertical Slider
     	  link:
 
 -	Project 23 - Double Click Heart
@@ -83,5 +83,71 @@
 -	Project 27 - Movie App
     	  link:
 
--	Project - ToDo list
+-	Project 28 - ToDo list
+		 link:
+
+-	Project 29 - Image Carousel
+		 link:
+
+-	Project 30 - Mobile Tab Navigator
+	     link:
+
+-	Project 31 -Netlfix Mobile Navigator
+		 link:
+
+- 	Project 32 - Notes App
+    	  link:
+
+- 	Project 33 - Password Generator
+	      link:
+
+-	Project 34 - Drawing App
+		 link:
+
+-	Project 35 - Event keyCodes
+		 link:
+
+-	Project 36 - FAQ Collapse
+		 link:
+
+-	Project 37 -  Hiddden Search
+		 link:
+
+- 	Project 38 - Insect Catch Game
+	      link:
+
+-	Project 39  -  Live user filter
+		 link:
+
+-	Project 40 -  Pssword Strength Background
+	  	 link:
+
+-	Project 41 - PokeDex
+		 link:
+
+- 	Project 42 - Quiz App
+		  link:
+
+- 	Project 43 - Random Image Generator
+		  link:
+
+-	Project 44 - Rotating Nav Animation
+		 link:
+
+-	Project 45 - Sound Board
+		 link:
+
+-	Project 46 - Split Landing Page
+		 link:
+
+-	Project 47 - Sticky Navigation
+		 link:
+
+-	Project 48 - Testimonial Box Switcher
+		 link:
+
+-	Project 49 - Toast Notification
+		 link:
+
+-	Project 50 - Verify account UI
 		 link:
