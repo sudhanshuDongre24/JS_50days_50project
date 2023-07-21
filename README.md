@@ -2,152 +2,102 @@
 
 #### 50 Mini JS Project
 
--   Project 1 -  Progrss  Steps
-		link:
+-   Project 1 -  Progrss  Steps | [Link]("https://")
 
--	Project 2 - Scroll Animation
-		 link:
+-	Project 2 - Scroll Animation | [Link]("https://")
 
-- 	Project 3 - Form Input Wave
-		  link:
+- 	Project 3 - Form Input Wave | [Link]("https://")
 
--	Project 4 - Random Choice Picker
-		 link:
+-	Project 4 - Random Choice Picker | [Link]("https://")
 
-- 	Project 5 - Drink Water
-          link:
+- 	Project 5 - Drink Water | [Link]("https://")
 
--  	Project 6 - Theme Clock
-  		 link:
+-  	Project 6 - Theme Clock | [Link]("https://")
 
--	Project 7 - Auto Text Effect
-		 link:
+-	Project 7 - Auto Text Effect | [Link]("https://")
 
-- 	Project 8 - Increment Counter
-	      link:
+- 	Project 8 - Increment Counter | [Link]("https://")
 
-- 	Project 9 - Good, Cheap, Fast
-   	   link:
+- 	Project 9 - Good, Cheap, Fast | [Link]("https://")
 
-- 	Project 10 - Button Ripple Effect
-   	   link:
+- 	Project 10 - Button Ripple Effect | [Link]("https://")
 
--	Project 11 -  Animated Countdown
-		 link:
+-	Project 11 -  Animated Countdown | [Link]("https://")
 
--	Project 12 -  Kinetic Loader
-		 link:
+-	Project 12 -  Kinetic Loader | [Link]("https://")
 
--	Project 13 -  Animated Navigation
-	     link:
+-	Project 13 -  Animated Navigation | [Link]("https://")
 
--	Project 14 - 3D Boxes Background
-		 link:
+-	Project 14 - 3D Boxes Background | [Link]("https://")
 
--	Project 15 - Background Slider
-		  link:
+-	Project 15 - Background Slider | [Link]("https://")
 
--	Project 16 - Custom Range Sldier
-		 link:
+-	Project 16 - Custom Range Sldier | [Link]("https://")
 
-- 	Project 17 - Drag N Drop
-		  link:
+- 	Project 17 - Drag N Drop | [Link]("https://")
 
--	Project 18 - Expanding Cards
-		 link:
+-	Project 18 - Expanding Cards | [Link]("https://")
 
--   Project 19 - HoverBoard
-	    link:
+-   Project 19 - HoverBoard | [Link]("https://")
 
--	Project 20 - Blurry Loading
-		 link:
+-	Project 20 - Blurry Loading | [Link]("https://")
 
--	Project 21 - Content PlaceHolder
-	     link:
+-	Project 21 - Content PlaceHolder | [Link]("https://")
 
--	Project 22 - Double Vertical Slider
-    	  link:
+-	Project 22 - Double Vertical Slider | [Link]("https://")
 
--	Project 23 - Double Click Heart
-    	  link:
+-	Project 23 - Double Click Heart | [Link]("https://")
 
--	Project 24 - Dad Jokes
-    	  link:
+-	Project 24 - Dad Jokes | [Link]("https://")
 
--	Project 25 - Let us Know Your Feedback
-    	  link:
+-	Project 25 - Let us Know Your Feedback | [Link]("https://")
 
--	Project 26 - Github Profile
-    	  link:
+-	Project 26 - Github Profile | [Link]("https://")
 
--	Project 27 - Movie App
-    	  link:
+-	Project 27 - Movie App | [Link]("https://")
 
--	Project 28 - ToDo list
-		 link:
+-	Project 28 - ToDo list | [Link]("https://")
 
--	Project 29 - Image Carousel
-		 link:
+-	Project 29 - Image Carousel | [Link]("https://")
 
--	Project 30 - Mobile Tab Navigator
-	     link:
+-	Project 30 - Mobile Tab Navigato | [Link]("https://")
 
--	Project 31 -Netlfix Mobile Navigator
-		 link:
+-	Project 31 -Netlfix Mobile Navigator | [Link]("https://")
 
-- 	Project 32 - Notes App
-    	  link:
+- 	Project 32 - Notes App | [Link]("https://")
 
-- 	Project 33 - Password Generator
-	      link:
+- 	Project 33 - Password Generator | [Link]("https://")
 
--	Project 34 - Drawing App
-		 link:
+-	Project 34 - Drawing App | [Link]("https://")
 
--	Project 35 - Event keyCodes
-		 link:
+-	Project 35 - Event keyCodes | [Link]("https://")
 
--	Project 36 - FAQ Collapse
-		 link:
+-	Project 36 - FAQ Collapse | [Link]("https://")
 
--	Project 37 -  Hiddden Search
-		 link:
+-	Project 37 -  Hiddden Search | [Link]("https://")
 
-- 	Project 38 - Insect Catch Game
-	      link:
+- 	Project 38 - Insect Catch Game | [Link]("https://")
 
--	Project 39  -  Live user filter
-		 link:
+-	Project 39  -  Live user filter | [Link]("https://")
 
--	Project 40 -  Pssword Strength Background
-	  	 link:
+-	Project 40 -  Pssword Strength Background | [Link]("https://")
 
--	Project 41 - PokeDex
-		 link:
+-	Project 41 - PokeDex | [Link]("https://")
 
-- 	Project 42 - Quiz App
-		  link:
+- 	Project 42 - Quiz App | [Link]("https://")
 
-- 	Project 43 - Random Image Generator
-		  link:
+- 	Project 43 - Random Image Generator | [Link]("https://")
 
--	Project 44 - Rotating Nav Animation
-		 link:
+-	Project 44 - Rotating Nav Animation | [Link]("https://")
 
--	Project 45 - Sound Board
-		 link:
+-	Project 45 - Sound Board | [Link]("https://")
 
--	Project 46 - Split Landing Page
-		 link:
+-	Project 46 - Split Landing Page | [Link]("https://")
 
--	Project 47 - Sticky Navigation
-		 link:
+-	Project 47 - Sticky Navigation | [Link]("https://")
 
--	Project 48 - Testimonial Box Switcher
-		 link:
+-	Project 48 - Testimonial Box Switcher | [Link]("https://")
 
--	Project 49 - Toast Notification
-		 link:
+-	Project 49 - Toast Notification | [Link]("https://")
 
--	Project 50 - Verify account UI
-		 link:
+-	Project 50 - Verify account UI | [Link]("https://")
